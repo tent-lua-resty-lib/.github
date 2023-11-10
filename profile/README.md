@@ -1,6 +1,6 @@
 # Tent for Lua Resty Libs
 
-<img src=../assets/tent-lua-resty-lib.png width=200 height=200 />
+<img src=https://github.com/tent-lua-resty-lib/.github/assets/30819887/7099c5ff-e25b-4f00-a1f5-7cf7ede48231 width=200 height=200 />
 
 ## Description
 
@@ -14,7 +14,7 @@ So we want to make a sanctuary for these libs, and keep them adapted to the late
 
 ## What We Do
 
-## Minimum maintenance
+### Minimum maintenance
 
 We will only do the minimum maintenance for these libs, including:
 
