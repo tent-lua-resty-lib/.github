@@ -49,3 +49,9 @@ Also, this project is not affiliated with the official OpenResty organization.
 ## Licenses
 
 All the libs in this project are fork from the original repo, and licensed under the same license as the original repo.
+
+## Acknowledgement
+
+Thanks to the original creators and maintainers of these libs, and thanks to the community for their support.
+
+This project inspired by [tent-rs](https://github.com/tent-rs)
